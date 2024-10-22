@@ -35,7 +35,6 @@ nav ul li .nav-sections a {
   padding: 10px;
 }
 nav ul li .nav-sections a:hover {
-  cursor: pointer;
   background-color: #ffffff;
   color: #000000;
   border-radius: 10px;
